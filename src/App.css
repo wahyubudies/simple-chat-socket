@@ -1,0 +1,8 @@
+#chatbox {
+  height: 400px;
+  overflow-y: scroll;
+}
+
+.msgln {
+  margin-bottom: 5px;
+}
